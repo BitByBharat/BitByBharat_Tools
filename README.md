@@ -112,10 +112,10 @@ Each tool writes logs and summaries into `/logs/` and pushes output to Notion.
 ## 📸 Screenshots
 
 ### Streamlit Web UI
-![Streamlit_UI](Streamlit_UI.png)
+![Streamlit_UI](assets/Streamlit_UI.png)
 
 ### VS Code Folder View
-![Streamlit_VS_Code](Streamlit_VS_Code_.png)
+![Streamlit_VS_Code](assets/Streamlit_VS_Code_.png)
 
 ---
 
