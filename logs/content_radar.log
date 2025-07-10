@@ -1,0 +1,973 @@
+2025-07-10 11:57:10,662 - 
+\U0001f4cd Starting fetch for: Digital Rebuild | Region: Global
+2025-07-10 11:57:11,835 - \u274c NewsAPI failed (401) for keyword: tech layoffs
+2025-07-10 11:57:13,026 - \u274c NewsAPI failed (401) for keyword: startup failure stories
+2025-07-10 11:57:14,208 - \u274c NewsAPI failed (401) for keyword: career restart after 40
+2025-07-10 11:57:15,365 - \u274c NewsAPI failed (401) for keyword: midlife career pivot
+2025-07-10 11:57:15,986 - \u274c NewsAPI failed (401) for keyword: founder burnout recovery
+2025-07-10 11:57:16,530 - \u274c NewsAPI failed (401) for keyword: site:hbr.org
+2025-07-10 11:57:17,830 - \u274c NewsAPI failed (401) for keyword: site:inc.com
+2025-07-10 11:57:19,262 - \u274c NewsAPI failed (401) for keyword: site:firstround.com
+2025-07-10 11:57:19,265 - \U0001f4e6 Done: 0 new articles added for category 'Digital Rebuild'
+
+2025-07-10 11:57:19,265 - 
+\U0001f4cd Starting fetch for: AI and Creator Systems | Region: Global
+2025-07-10 11:57:19,672 - \u274c NewsAPI failed (401) for keyword: faceless YouTube automation
+2025-07-10 11:57:20,081 - \u274c NewsAPI failed (401) for keyword: GPT for content creation
+2025-07-10 11:57:20,491 - \u274c NewsAPI failed (401) for keyword: AI tools for YouTubers
+2025-07-10 11:57:20,957 - \u274c NewsAPI failed (401) for keyword: AI for solopreneurs
+2025-07-10 11:57:22,057 - \u274c NewsAPI failed (401) for keyword: ChatGPT content workflows
+2025-07-10 11:57:22,436 - \u274c NewsAPI failed (401) for keyword: site:futuretools.io
+2025-07-10 11:57:22,949 - \u274c NewsAPI failed (401) for keyword: site:superhuman.ai
+2025-07-10 11:57:23,491 - \u274c NewsAPI failed (401) for keyword: site:creatoreconomy.so
+2025-07-10 11:57:23,519 - \U0001f4e6 Done: 0 new articles added for category 'AI and Creator Systems'
+
+2025-07-10 11:57:23,519 - 
+\U0001f4cd Starting fetch for: Fitness x Founder Life | Region: Global
+2025-07-10 11:57:23,901 - \u274c NewsAPI failed (401) for keyword: fitness for busy professionals
+2025-07-10 11:57:24,318 - \u274c NewsAPI failed (401) for keyword: mental health for entrepreneurs
+2025-07-10 11:57:24,792 - \u274c NewsAPI failed (401) for keyword: workout routine for founders
+2025-07-10 11:57:25,949 - \u274c NewsAPI failed (401) for keyword: fitness hacks for coders
+2025-07-10 11:57:27,229 - \u274c NewsAPI failed (401) for keyword: stress recovery for startup life
+2025-07-10 11:57:27,660 - \u274c NewsAPI failed (401) for keyword: site:nerdfitness.com
+2025-07-10 11:57:28,015 - \u274c NewsAPI failed (401) for keyword: site:whoop.com
+2025-07-10 11:57:28,430 - \u274c NewsAPI failed (401) for keyword: site:foundr.com
+2025-07-10 11:57:28,557 - \U0001f4e6 Done: 0 new articles added for category 'Fitness x Founder Life'
+
+2025-07-10 11:57:28,563 - 
+\U0001f4cd Starting fetch for: AI Logs | Region: Global
+2025-07-10 11:57:29,087 - \u274c NewsAPI failed (401) for keyword: learn machine learning from scratch
+2025-07-10 11:57:29,663 - \u274c NewsAPI failed (401) for keyword: beginner AI roadmap
+2025-07-10 11:57:30,937 - \u274c NewsAPI failed (401) for keyword: data science for working professionals
+2025-07-10 11:57:31,399 - \u274c NewsAPI failed (401) for keyword: AI for non-programmers
+2025-07-10 11:57:31,890 - \u274c NewsAPI failed (401) for keyword: ML for career switch
+2025-07-10 11:57:32,299 - \u274c NewsAPI failed (401) for keyword: site:kdnuggets.com
+2025-07-10 11:57:33,447 - \u274c NewsAPI failed (401) for keyword: site:towardsdatascience.com
+2025-07-10 11:57:34,111 - \u274c NewsAPI failed (401) for keyword: site:huggingface.co
+2025-07-10 11:57:34,130 - \U0001f4e6 Done: 0 new articles added for category 'AI Logs'
+
+2025-07-10 12:00:37,184 - 
+\U0001f4cd Starting fetch for: Digital Rebuild | Region: Global
+2025-07-10 12:00:37,718 - \u274c NewsAPI failed (401) for keyword: tech layoffs
+2025-07-10 12:00:39,058 - \u274c NewsAPI failed (401) for keyword: startup failure stories
+2025-07-10 12:00:39,466 - \u274c NewsAPI failed (401) for keyword: career restart after 40
+2025-07-10 12:00:39,874 - \u274c NewsAPI failed (401) for keyword: midlife career pivot
+2025-07-10 12:00:40,278 - \u274c NewsAPI failed (401) for keyword: founder burnout recovery
+2025-07-10 12:00:40,697 - \u274c NewsAPI failed (401) for keyword: site:hbr.org
+2025-07-10 12:00:41,114 - \u274c NewsAPI failed (401) for keyword: site:inc.com
+2025-07-10 12:00:41,673 - \u274c NewsAPI failed (401) for keyword: site:firstround.com
+2025-07-10 12:00:41,847 - \U0001f4e6 Done: 0 new articles added for category 'Digital Rebuild'
+
+2025-07-10 12:00:41,851 - 
+\U0001f4cd Starting fetch for: AI and Creator Systems | Region: Global
+2025-07-10 12:00:43,147 - \u274c NewsAPI failed (401) for keyword: faceless YouTube automation
+2025-07-10 12:00:44,196 - \u274c NewsAPI failed (401) for keyword: GPT for content creation
+2025-07-10 12:00:44,551 - \u274c NewsAPI failed (401) for keyword: AI tools for YouTubers
+2025-07-10 12:00:44,868 - \u274c NewsAPI failed (401) for keyword: AI for solopreneurs
+2025-07-10 12:00:45,255 - \u274c NewsAPI failed (401) for keyword: ChatGPT content workflows
+2025-07-10 12:00:45,665 - \u274c NewsAPI failed (401) for keyword: site:futuretools.io
+2025-07-10 12:00:46,115 - \u274c NewsAPI failed (401) for keyword: site:superhuman.ai
+2025-07-10 12:00:46,510 - \u274c NewsAPI failed (401) for keyword: site:creatoreconomy.so
+2025-07-10 12:00:46,549 - \U0001f4e6 Done: 0 new articles added for category 'AI and Creator Systems'
+
+2025-07-10 12:00:46,550 - 
+\U0001f4cd Starting fetch for: Fitness x Founder Life | Region: Global
+2025-07-10 12:00:46,986 - \u274c NewsAPI failed (401) for keyword: fitness for busy professionals
+2025-07-10 12:00:47,476 - \u274c NewsAPI failed (401) for keyword: mental health for entrepreneurs
+2025-07-10 12:00:48,585 - \u274c NewsAPI failed (401) for keyword: workout routine for founders
+2025-07-10 12:00:49,300 - \u274c NewsAPI failed (401) for keyword: fitness hacks for coders
+2025-07-10 12:00:49,813 - \u274c NewsAPI failed (401) for keyword: stress recovery for startup life
+2025-07-10 12:00:50,416 - \u274c NewsAPI failed (401) for keyword: site:nerdfitness.com
+2025-07-10 12:00:50,811 - \u274c NewsAPI failed (401) for keyword: site:whoop.com
+2025-07-10 12:00:51,219 - \u274c NewsAPI failed (401) for keyword: site:foundr.com
+2025-07-10 12:00:51,240 - \U0001f4e6 Done: 0 new articles added for category 'Fitness x Founder Life'
+
+2025-07-10 12:00:51,241 - 
+\U0001f4cd Starting fetch for: AI Logs | Region: Global
+2025-07-10 12:00:51,747 - \u274c NewsAPI failed (401) for keyword: learn machine learning from scratch
+2025-07-10 12:00:52,188 - \u274c NewsAPI failed (401) for keyword: beginner AI roadmap
+2025-07-10 12:00:52,497 - \u274c NewsAPI failed (401) for keyword: data science for working professionals
+2025-07-10 12:00:52,809 - \u274c NewsAPI failed (401) for keyword: AI for non-programmers
+2025-07-10 12:00:53,139 - \u274c NewsAPI failed (401) for keyword: ML for career switch
+2025-07-10 12:00:53,576 - \u274c NewsAPI failed (401) for keyword: site:kdnuggets.com
+2025-07-10 12:00:53,889 - \u274c NewsAPI failed (401) for keyword: site:towardsdatascience.com
+2025-07-10 12:00:54,981 - \u274c NewsAPI failed (401) for keyword: site:huggingface.co
+2025-07-10 12:00:55,008 - \U0001f4e6 Done: 0 new articles added for category 'AI Logs'
+
+2025-07-10 13:10:11,026 - 
+\U0001f4cd Starting fetch for: Digital Rebuild | Region: Global
+2025-07-10 13:10:11,565 - \u274c NewsAPI failed (401) for keyword: tech layoffs
+2025-07-10 13:10:11,944 - \u274c NewsAPI failed (401) for keyword: startup failure stories
+2025-07-10 13:10:12,354 - \u274c NewsAPI failed (401) for keyword: career restart after 40
+2025-07-10 13:10:13,589 - \u274c NewsAPI failed (401) for keyword: midlife career pivot
+2025-07-10 13:10:13,994 - \u274c NewsAPI failed (401) for keyword: founder burnout recovery
+2025-07-10 13:10:15,183 - \u274c NewsAPI failed (401) for keyword: site:hbr.org
+2025-07-10 13:10:15,542 - \u274c NewsAPI failed (401) for keyword: site:inc.com
+2025-07-10 13:10:16,891 - \u274c NewsAPI failed (401) for keyword: site:firstround.com
+2025-07-10 13:10:16,919 - \U0001f4e6 Done: 0 new articles added for category 'Digital Rebuild'
+
+2025-07-10 13:10:16,920 - 
+\U0001f4cd Starting fetch for: AI and Creator Systems | Region: Global
+2025-07-10 13:10:17,300 - \u274c NewsAPI failed (401) for keyword: faceless YouTube automation
+2025-07-10 13:10:17,711 - \u274c NewsAPI failed (401) for keyword: GPT for content creation
+2025-07-10 13:10:18,069 - \u274c NewsAPI failed (401) for keyword: AI tools for YouTubers
+2025-07-10 13:10:18,443 - \u274c NewsAPI failed (401) for keyword: AI for solopreneurs
+2025-07-10 13:10:18,938 - \u274c NewsAPI failed (401) for keyword: ChatGPT content workflows
+2025-07-10 13:10:20,034 - \u274c NewsAPI failed (401) for keyword: site:futuretools.io
+2025-07-10 13:10:21,183 - \u274c NewsAPI failed (401) for keyword: site:superhuman.ai
+2025-07-10 13:10:21,668 - \u274c NewsAPI failed (401) for keyword: site:creatoreconomy.so
+2025-07-10 13:10:21,687 - \U0001f4e6 Done: 0 new articles added for category 'AI and Creator Systems'
+
+2025-07-10 13:10:21,687 - 
+\U0001f4cd Starting fetch for: Fitness x Founder Life | Region: Global
+2025-07-10 13:10:22,156 - \u274c NewsAPI failed (401) for keyword: fitness for busy professionals
+2025-07-10 13:10:22,635 - \u274c NewsAPI failed (401) for keyword: mental health for entrepreneurs
+2025-07-10 13:10:23,035 - \u274c NewsAPI failed (401) for keyword: workout routine for founders
+2025-07-10 13:10:24,131 - \u274c NewsAPI failed (401) for keyword: fitness hacks for coders
+2025-07-10 13:10:24,579 - \u274c NewsAPI failed (401) for keyword: stress recovery for startup life
+2025-07-10 13:10:25,128 - \u274c NewsAPI failed (401) for keyword: site:nerdfitness.com
+2025-07-10 13:10:25,799 - \u274c NewsAPI failed (401) for keyword: site:whoop.com
+2025-07-10 13:10:26,486 - \u274c NewsAPI failed (401) for keyword: site:foundr.com
+2025-07-10 13:10:26,511 - \U0001f4e6 Done: 0 new articles added for category 'Fitness x Founder Life'
+
+2025-07-10 13:10:26,512 - 
+\U0001f4cd Starting fetch for: AI Logs | Region: Global
+2025-07-10 13:10:26,923 - \u274c NewsAPI failed (401) for keyword: learn machine learning from scratch
+2025-07-10 13:10:28,022 - \u274c NewsAPI failed (401) for keyword: beginner AI roadmap
+2025-07-10 13:10:28,432 - \u274c NewsAPI failed (401) for keyword: data science for working professionals
+2025-07-10 13:10:28,778 - \u274c NewsAPI failed (401) for keyword: AI for non-programmers
+2025-07-10 13:10:29,177 - \u274c NewsAPI failed (401) for keyword: ML for career switch
+2025-07-10 13:10:29,527 - \u274c NewsAPI failed (401) for keyword: site:kdnuggets.com
+2025-07-10 13:10:29,924 - \u274c NewsAPI failed (401) for keyword: site:towardsdatascience.com
+2025-07-10 13:10:30,323 - \u274c NewsAPI failed (401) for keyword: site:huggingface.co
+2025-07-10 13:10:30,341 - \U0001f4e6 Done: 0 new articles added for category 'AI Logs'
+
+2025-07-10 13:13:35,006 - 
+\U0001f4cd Starting fetch for: Digital Rebuild | Region: Global
+2025-07-10 13:13:35,685 - \u2705 NewsAPI success for keyword: tech layoffs
+2025-07-10 13:13:36,841 - \u2705 NewsAPI success for keyword: startup failure stories
+2025-07-10 13:13:37,394 - \u2705 NewsAPI success for keyword: career restart after 40
+2025-07-10 13:13:37,847 - \u2705 NewsAPI success for keyword: midlife career pivot
+2025-07-10 13:13:38,388 - \u2705 NewsAPI success for keyword: founder burnout recovery
+2025-07-10 13:13:39,032 - \u2705 NewsAPI success for keyword: site:hbr.org
+2025-07-10 13:13:39,514 - \u2705 NewsAPI success for keyword: site:inc.com
+2025-07-10 13:13:40,261 - \u2705 NewsAPI success for keyword: site:firstround.com
+2025-07-10 13:13:41,081 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:42,172 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:42,174 - \u2705 Pushed to Notion: To Avoid Program Closures, PASSHE Explores Course Sharing
+2025-07-10 13:13:42,581 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:43,053 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:43,056 - \u2705 Pushed to Notion: China places export controls on eight Taiwanese firms citing dual-use tech concerns
+2025-07-10 13:13:43,419 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:45,529 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:45,530 - \u2705 Pushed to Notion: Bloomberg made a rare cut to staff in a newsroom overhaul. Read the memo breaking down the changes.
+2025-07-10 13:13:45,995 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:47,472 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:47,473 - \u2705 Pushed to Notion: OpenAI May Be in Major Trouble Financially
+2025-07-10 13:13:49,548 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:50,059 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:50,061 - \u2705 Pushed to Notion: A Medium Scenario
+2025-07-10 13:13:50,406 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:51,392 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:51,451 - \u2705 Pushed to Notion: Supreme Court clears way for Trump's mass federal purge
+2025-07-10 13:13:52,502 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:53,443 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:53,444 - \u2705 Pushed to Notion: Melinda Gates refuses to fund daughter’s startup, despite $31 billion net worth
+2025-07-10 13:13:53,849 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:56,101 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:56,103 - \u2705 Pushed to Notion: Intel to lay off over 500 employees in Oregon as part of massive restructuring: Report
+2025-07-10 13:13:56,493 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:58,151 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:58,153 - \u2705 Pushed to Notion: Is the secret to immortality in our DNA?
+2025-07-10 13:13:58,494 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:13:59,778 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:13:59,779 - \u2705 Pushed to Notion: Magritte-Inspired Rebrand by How&How Bends Reality for Jupi’s AI
+2025-07-10 13:14:00,198 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:01,536 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:01,543 - \u2705 Pushed to Notion: What Successful Entrepreneurs Really Wish They Had Learned At School
+2025-07-10 13:14:01,933 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:02,757 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:02,759 - \u2705 Pushed to Notion: The masked side of design leadership
+2025-07-10 13:14:03,161 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:03,670 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:03,672 - \u2705 Pushed to Notion: Why do good employees quit great jobs? Mamaearth’s Ghazal Alagh reveals 8 types of bosses who push them away
+2025-07-10 13:14:04,397 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:04,397 - \U0001f501 Duplicate found in Notion, skipping: Top tech and startup stories this week
+2025-07-10 13:14:06,065 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:06,066 - \U0001f501 Duplicate found in Notion, skipping: Housing Roundup #12
+2025-07-10 13:14:06,445 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:06,447 - \U0001f501 Duplicate found in Notion, skipping: The Audience Shortcut: How the Right People Paying Attention Changes Everything
+2025-07-10 13:14:06,887 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:06,888 - \U0001f501 Duplicate found in Notion, skipping: The Email Startup Graveyard: Why 80%+ of Email Companies Fail
+2025-07-10 13:14:08,186 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:08,187 - \U0001f501 Duplicate found in Notion, skipping: How to Balance Work and Family Life: 12 Proven Strategies for Working Parents
+2025-07-10 13:14:08,527 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:09,118 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:09,120 - \u2705 Pushed to Notion: The Last 30 Days: What’s Happened to Public Health
+2025-07-10 13:14:09,519 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:09,520 - \U0001f501 Duplicate found in Notion, skipping: Why Top Talent Quits Early And How To Keep Employees Longer
+2025-07-10 13:14:10,029 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:10,030 - \U0001f501 Duplicate found in Notion, skipping: Analysis shows Trump's tariffs would cost U.S. employers $82.3 billion
+2025-07-10 13:14:10,982 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:11,020 - \U0001f501 Duplicate found in Notion, skipping: Analysis shows Trump's tariffs would cost US employers $82.3 billion
+2025-07-10 13:14:11,388 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:11,389 - \U0001f501 Duplicate found in Notion, skipping: Trump’s tariffs would cost US employers $82.3 billion, potentially causing price hikes and layoffs
+2025-07-10 13:14:13,286 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:13,393 - \U0001f501 Duplicate found in Notion, skipping: Is the Cure to Male Loneliness Actually Just Buying A Sea-Doo?
+2025-07-10 13:14:15,666 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:15,671 - \U0001f501 Duplicate found in Notion, skipping: Fans Of This ‘90s Rom-Com Thought It Was Over. But A New Book Offers Answers To Their Biggest Questions.
+2025-07-10 13:14:16,104 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:16,105 - \U0001f501 Duplicate found in Notion, skipping: The latest thing millennials feel priced out of: a midlife crisis
+2025-07-10 13:14:16,715 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:16,716 - \U0001f501 Duplicate found in Notion, skipping: MicroVee: You Should Change Your Mind More... Here's Why.
+2025-07-10 13:14:17,126 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:17,128 - \U0001f501 Duplicate found in Notion, skipping: Will Smith’s seedy new single ‘Pretty Girls’ sounds like a cry for help
+2025-07-10 13:14:18,311 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:20,927 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:20,932 - \u2705 Pushed to Notion: Workplace mental health at risk as key federal agency faces cuts
+2025-07-10 13:14:22,050 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:22,051 - \U0001f501 Duplicate found in Notion, skipping: Workplace Mental Health at Risk as Key Federal Agency Faces Cuts
+2025-07-10 13:14:22,654 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:22,655 - \U0001f501 Duplicate found in Notion, skipping: Patient used AI to find Providence's innovative heart surgery. What role should the technology play in health care?
+2025-07-10 13:14:23,063 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:23,064 - \U0001f501 Duplicate found in Notion, skipping: CEO Explains Why He's Ending 'Unlimited' Time Off for Employees
+2025-07-10 13:14:23,751 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:23,752 - \U0001f501 Duplicate found in Notion, skipping: Bolt’s millennial founder has just ‘killed’ its unlimited PTO perk because it was actually causing burnout
+2025-07-10 13:14:24,161 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:24,162 - \U0001f501 Duplicate found in Notion, skipping: Bolt CEO says unlimited PTO is a 'totally broken' policy — so he killed it in favor of 4 mandatory paid weeks off
+2025-07-10 13:14:24,570 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:24,571 - \U0001f501 Duplicate found in Notion, skipping: NYNext Guide to: Luxury Wellness Retreats
+2025-07-10 13:14:26,209 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:26,210 - \U0001f501 Duplicate found in Notion, skipping: 4-Hour Workweek Success Stories — Charlie Houpert on Building “Charisma on Command” to 10M+ Subscribers, From Charging $10 for Seminars to Making Millions, Living in Brazil, Critical Early Decisions, and The Secret to Freedom (#817)
+2025-07-10 13:14:26,593 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:26,594 - \U0001f501 Duplicate found in Notion, skipping: “My Kidneys Shut Down”–ILIA Beauty Founder’s Wake-Up Call After Scaling To $100M
+2025-07-10 13:14:26,648 - \U0001f4e6 Done: 15 new articles added for category 'Digital Rebuild'
+
+2025-07-10 13:14:26,648 - 
+\U0001f4cd Starting fetch for: AI and Creator Systems | Region: Global
+2025-07-10 13:14:27,234 - \u2705 NewsAPI success for keyword: faceless YouTube automation
+2025-07-10 13:14:27,735 - \u2705 NewsAPI success for keyword: GPT for content creation
+2025-07-10 13:14:28,143 - \u2705 NewsAPI success for keyword: AI tools for YouTubers
+2025-07-10 13:14:28,577 - \u2705 NewsAPI success for keyword: AI for solopreneurs
+2025-07-10 13:14:29,006 - \u2705 NewsAPI success for keyword: ChatGPT content workflows
+2025-07-10 13:14:29,486 - \u2705 NewsAPI success for keyword: site:futuretools.io
+2025-07-10 13:14:30,714 - \u2705 NewsAPI success for keyword: site:superhuman.ai
+2025-07-10 13:14:31,229 - \u2705 NewsAPI success for keyword: site:creatoreconomy.so
+2025-07-10 13:14:31,638 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:31,640 - \U0001f501 Duplicate found in Notion, skipping: I Asked ChatGPT for the Best Passive Income Ideas of 2025: Here’s What It Said
+2025-07-10 13:14:32,998 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:33,007 - \U0001f501 Duplicate found in Notion, skipping: The Rise Of Six-Figure Faceless AI Video Creators
+2025-07-10 13:14:33,511 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:33,513 - \U0001f501 Duplicate found in Notion, skipping: How to Earn a Minimum of $1000 Weekly Promoting Health and Wellness Brands
+2025-07-10 13:14:33,918 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:33,920 - \U0001f501 Duplicate found in Notion, skipping: How to Automate Faceless Video Creation with n8n : Effortless and Affordable
+2025-07-10 13:14:34,606 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:34,607 - \U0001f501 Duplicate found in Notion, skipping: Predictive Capital – Roads to terminal alienation, soil to server farm, reason to vibe
+2025-07-10 13:14:35,160 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:36,148 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:36,156 - \u2705 Pushed to Notion: Answerman - Anime and AI
+2025-07-10 13:14:36,561 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:37,063 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:37,064 - \u2705 Pushed to Notion: Claude
+2025-07-10 13:14:37,416 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:37,882 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:37,883 - \u2705 Pushed to Notion: Apple’s DiffuCode: Why Non-Linear Code Generation Could Transform Development Workflows
+2025-07-10 13:14:38,914 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:39,522 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:39,524 - \u2705 Pushed to Notion: Agentic AI Frameworks for Building Autonomous AI Agents
+2025-07-10 13:14:39,930 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:40,473 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:40,475 - \u2705 Pushed to Notion: Show HN: GraphFlow – A lightweight Rust framework for multi-agent orchestration
+2025-07-10 13:14:42,593 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:42,594 - \U0001f501 Duplicate found in Notion, skipping: llmcosts added to PyPI
+2025-07-10 13:14:43,410 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:43,411 - \U0001f501 Duplicate found in Notion, skipping: Europe’s biggest companies call for two-year pause on EU’s landmark AI Act
+2025-07-10 13:14:44,641 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:44,642 - \U0001f501 Duplicate found in Notion, skipping: 9 Best Tools to Effortlessly Create a Free eBook with AI
+2025-07-10 13:14:45,013 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:45,014 - \U0001f501 Duplicate found in Notion, skipping: The AI-Native Software Engineer - A practical playbook for integrating AI into your daily engineering workflow
+2025-07-10 13:14:47,043 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:48,295 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:48,296 - \u2705 Pushed to Notion: CyberLink PowerDirector Ultimate 2025 v23.5.1811
+2025-07-10 13:14:48,649 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:50,785 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:50,787 - \u2705 Pushed to Notion: OBSBOT is redefining the webcam for creators and remote professionals
+2025-07-10 13:14:51,195 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:51,760 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:51,762 - \u2705 Pushed to Notion: AI is shaking up Hollywood. Here are the startups and investors jumping into the fray.
+2025-07-10 13:14:52,990 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:52,991 - \U0001f501 Duplicate found in Notion, skipping: AI virtual personality YouTubers, or ‘VTubers,’ are earning millions
+2025-07-10 13:14:53,346 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:53,347 - \U0001f501 Duplicate found in Notion, skipping: Linguists say ChatGPT is now influencing how humans write and speak
+2025-07-10 13:14:53,727 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:53,728 - \U0001f501 Duplicate found in Notion, skipping: How Gen Z is transforming the wedding industry & shaking it up
+2025-07-10 13:14:54,143 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:54,146 - \U0001f501 Duplicate found in Notion, skipping: Adobe After Effects 25.3.1
+2025-07-10 13:14:55,265 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:55,266 - \U0001f501 Duplicate found in Notion, skipping: MrBeast removes AI thumbnail tool after backlash
+2025-07-10 13:14:55,651 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:55,652 - \U0001f501 Duplicate found in Notion, skipping: MrBeast Pulls AI Thumbnail Tool Following Backlash
+2025-07-10 13:14:57,978 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:58,496 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:58,497 - \u2705 Pushed to Notion: AI Content Schedulers - Postiz Helps You Schedule, Analyze, and Manage Social Media Content (TrendHunter.com)
+2025-07-10 13:14:58,956 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:14:59,502 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:14:59,503 - \u2705 Pushed to Notion: Link to Launch: How to Make Product Videos Without Filming a Thing
+2025-07-10 13:15:00,001 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:00,665 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:00,666 - \u2705 Pushed to Notion: What is a One Person Business?
+2025-07-10 13:15:02,852 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:02,853 - \U0001f501 Duplicate found in Notion, skipping: Show HN: AI Agents That Work as Hard as You Do
+2025-07-10 13:15:04,405 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:04,406 - \U0001f501 Duplicate found in Notion, skipping: Disrupted and Deployed: How Tech Killed the 9-to-5 Workday
+2025-07-10 13:15:04,893 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:04,896 - \U0001f501 Duplicate found in Notion, skipping: Gen Z Side Hustles: 5 Ways To Turn Them Into Six-Figure Salary Careers
+2025-07-10 13:15:05,327 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:05,329 - \U0001f501 Duplicate found in Notion, skipping: How To Earn Up To $150,000+ With AI In 2025
+2025-07-10 13:15:05,736 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:05,737 - \U0001f501 Duplicate found in Notion, skipping: Fullsend – Automate your content marketing
+2025-07-10 13:15:06,147 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:06,148 - \U0001f501 Duplicate found in Notion, skipping: Blog networks in 2025: What they really offer—and how to use them wisely
+2025-07-10 13:15:08,614 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:08,627 - \U0001f501 Duplicate found in Notion, skipping: How To Use AI To Test Ideas, Refine Marketing, And Grow Smarter
+2025-07-10 13:15:09,060 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:09,627 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:09,628 - \u2705 Pushed to Notion: What makes a good AI prompt? Here are 4 expert tips
+2025-07-10 13:15:09,993 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:10,552 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:10,553 - \u2705 Pushed to Notion: What makes a good AI prompt?
+2025-07-10 13:15:11,088 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:11,675 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:11,677 - \u2705 Pushed to Notion: Red Hat AI: Accelerate AI innovation
+2025-07-10 13:15:12,063 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:12,685 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:12,686 - \u2705 Pushed to Notion: OpenAI tightens internal security amid fears of IP theft by Chinese AI rivals
+2025-07-10 13:15:14,747 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:15,289 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:15,290 - \u2705 Pushed to Notion: The Prompt: OpenAI Backs New AI Training Academy For Teachers
+2025-07-10 13:15:16,285 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:16,852 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:16,853 - \u2705 Pushed to Notion: 11 NotebookLM Hidden Features to Supercharge Your AI Productivity
+2025-07-10 13:15:17,205 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:17,717 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:17,718 - \u2705 Pushed to Notion: Junior Roles Aren't Going Away
+2025-07-10 13:15:18,085 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:18,606 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:18,607 - \u2705 Pushed to Notion: What's Ahead for AI and ABM: Evolving From Tools to Orchestration
+2025-07-10 13:15:19,048 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:19,868 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:19,871 - \u2705 Pushed to Notion: Ten quick tips for navigating intellectual property in FAIR educational resources
+2025-07-10 13:15:20,228 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:21,228 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:21,229 - \u2705 Pushed to Notion: Denodo unveils DeepQuery to provide AI-powered deep analysis
+2025-07-10 13:15:21,250 - \U0001f4e6 Done: 21 new articles added for category 'AI and Creator Systems'
+
+2025-07-10 13:15:21,251 - 
+\U0001f4cd Starting fetch for: Fitness x Founder Life | Region: Global
+2025-07-10 13:15:21,814 - \u2705 NewsAPI success for keyword: fitness for busy professionals
+2025-07-10 13:15:22,225 - \u2705 NewsAPI success for keyword: mental health for entrepreneurs
+2025-07-10 13:15:22,738 - \u2705 NewsAPI success for keyword: workout routine for founders
+2025-07-10 13:15:23,955 - \u2705 NewsAPI success for keyword: fitness hacks for coders
+2025-07-10 13:15:24,506 - \u2705 NewsAPI success for keyword: stress recovery for startup life
+2025-07-10 13:15:24,916 - \u2705 NewsAPI success for keyword: site:nerdfitness.com
+2025-07-10 13:15:25,269 - \u2705 NewsAPI success for keyword: site:whoop.com
+2025-07-10 13:15:25,740 - \u2705 NewsAPI success for keyword: site:foundr.com
+2025-07-10 13:15:26,201 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:26,691 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:26,692 - \u2705 Pushed to Notion: Specialized Nutrition Market Size Worth USD 206.79 Billion by 2034 | Driven by Elderly, Sports, and Medical Innovations
+2025-07-10 13:15:27,147 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:29,391 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:29,392 - \u2705 Pushed to Notion: Prime Day starts tomorrow, but these 65+ early deals are worth shopping now
+2025-07-10 13:15:30,210 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:31,542 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:31,543 - \u2705 Pushed to Notion: 10 exercises that torch calories faster than running
+2025-07-10 13:15:31,942 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:32,492 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:32,493 - \u2705 Pushed to Notion: He pioneered the cellphone. It changed how people around the world talk to one another
+2025-07-10 13:15:32,975 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:33,489 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:33,490 - \u2705 Pushed to Notion: Goodin Development Breaks Ground on The Elwood: $26 Million Mixed-Use Development to Transform Downtown Kokomo
+2025-07-10 13:15:33,909 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:34,484 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:34,485 - \u2705 Pushed to Notion: Autobrush: How This U-Shaped Toothbrush Is Changing the Way Adults Clean Their Teeth – Read Autobrush Report 2025!
+2025-07-10 13:15:34,973 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:35,471 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:35,472 - \u2705 Pushed to Notion: Critical stomach symptoms that predict cancer development
+2025-07-10 13:15:35,842 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:36,384 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:36,386 - \u2705 Pushed to Notion: iOS 26: 10 Must-Know Features for iPhone Users
+2025-07-10 13:15:36,729 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:37,275 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:37,276 - \u2705 Pushed to Notion: GROW - ENGAGE - MONETIZE: The Digital Creator & Marketing Bundle
+2025-07-10 13:15:39,017 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:40,890 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:40,891 - \u2705 Pushed to Notion: 12 celebrity brands that are totally nailing it, and what designers can learn from them
+2025-07-10 13:15:41,372 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:44,228 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:44,229 - \u2705 Pushed to Notion: Why High-Achieving Women Are Trading Gratitude Journals For Group Saunas
+2025-07-10 13:15:44,752 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:15:59,102 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:15:59,292 - \u2705 Pushed to Notion: Regulating AI Isn’t Enough. Let’s Dismantle the Logic That Put It in Schools.
+2025-07-10 13:15:59,785 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:00,425 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:00,431 - \u2705 Pushed to Notion: Bengaluru founder’s 'strict 72-hour workweek’ to promote a 'building mindset' sparks online uproar: 'Make employees partners’
+2025-07-10 13:16:03,389 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:03,891 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:03,892 - \u2705 Pushed to Notion: This Brazilian Startup Is Turning A Population Of 211 Million Into A Cannabis Data Goldmine
+2025-07-10 13:16:04,490 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:05,030 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:05,031 - \u2705 Pushed to Notion: Learn a founder-focused approach to anxiety at TC All Stage | TechCrunch
+2025-07-10 13:16:05,437 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:05,924 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:05,925 - \u2705 Pushed to Notion: Brain Defender Supplement Officially Launches: Natural Memory Lift Support and Brain Health Enhancement
+2025-07-10 13:16:06,330 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:06,973 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:06,974 - \u2705 Pushed to Notion: The impact of music industry digitalisation on population well-being: Empirical evidence from China
+2025-07-10 13:16:07,319 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:07,791 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:07,792 - \u2705 Pushed to Notion: The Fire of Freedom
+2025-07-10 13:16:08,918 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:09,430 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:09,431 - \u2705 Pushed to Notion: Living Well with Wildling Founder: On Gua Sha Tools, Lymphatic Health + Slow Beauty
+2025-07-10 13:16:11,266 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:11,823 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:11,864 - \u2705 Pushed to Notion: #2276 Close: The $50 Million / Year CRM
+2025-07-10 13:16:12,912 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:13,380 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:13,382 - \u2705 Pushed to Notion: The foraging gene coordinates brain and heart networks to modulate socially cued interval timing in Drosophila
+2025-07-10 13:16:13,834 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:16,118 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:16,119 - \u2705 Pushed to Notion: What a Hacker Stole from Me
+2025-07-10 13:16:16,599 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:17,112 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:17,113 - \u2705 Pushed to Notion: Copper supplementation enhances pigmentation and induces dopamine production in ARPE19
+2025-07-10 13:16:18,179 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:18,623 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:18,624 - \u2705 Pushed to Notion: 5 best online TRT clinics in 2025
+2025-07-10 13:16:19,397 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:21,906 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:21,908 - \u2705 Pushed to Notion: Young IIM-educated CEO, after cardiac scare due to stress, warns: No ambition is worth your life, walk, sleep, your heart isn’t a machine...
+2025-07-10 13:16:22,334 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:22,897 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:22,899 - \u2705 Pushed to Notion: West Texas boom: Inside Texas Tech's bold all-in bet on NIL and the billionaire landman responsible
+2025-07-10 13:16:23,255 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:23,825 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:23,826 - \u2705 Pushed to Notion: 'Got rid of Apple watch... Muted Bryan Johnson': AI startup CEO declares ‘it’s all made up’ in rant against wellness obsession
+2025-07-10 13:16:24,204 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:25,405 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:25,406 - \u2705 Pushed to Notion: Burnout Or Biology? Metabolic Health Drives Entrepreneur Success
+2025-07-10 13:16:26,327 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:26,883 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:26,884 - \u2705 Pushed to Notion: How Nexthink built real-time alerts with Amazon Managed Service for Apache Flink
+2025-07-10 13:16:27,292 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:27,840 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:27,844 - \u2705 Pushed to Notion: Trusting your own judgement on 'AI' is a risk
+2025-07-10 13:16:27,909 - \U0001f4e6 Done: 30 new articles added for category 'Fitness x Founder Life'
+
+2025-07-10 13:16:27,911 - 
+\U0001f4cd Starting fetch for: AI Logs | Region: Global
+2025-07-10 13:16:28,463 - \u2705 NewsAPI success for keyword: learn machine learning from scratch
+2025-07-10 13:16:29,621 - \u2705 NewsAPI success for keyword: beginner AI roadmap
+2025-07-10 13:16:31,051 - \u2705 NewsAPI success for keyword: data science for working professionals
+2025-07-10 13:16:31,654 - \u2705 NewsAPI success for keyword: AI for non-programmers
+2025-07-10 13:16:32,101 - \u2705 NewsAPI success for keyword: ML for career switch
+2025-07-10 13:16:32,553 - \u2705 NewsAPI success for keyword: site:kdnuggets.com
+2025-07-10 13:16:33,121 - \u2705 NewsAPI success for keyword: site:towardsdatascience.com
+2025-07-10 13:16:33,495 - \u2705 NewsAPI success for keyword: site:huggingface.co
+2025-07-10 13:16:34,212 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:34,724 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:34,725 - \u2705 Pushed to Notion: The Tradeoffs of SSMs and Transformers
+2025-07-10 13:16:35,133 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:35,866 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:35,867 - \u2705 Pushed to Notion: At Booking.com, Innovation Means Constant Failure (Summer Repeat)
+2025-07-10 13:16:38,292 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:39,409 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:39,411 - \u2705 Pushed to Notion: 7 Steps to Mastering Vibe Coding
+2025-07-10 13:16:39,786 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:40,274 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:40,286 - \u2705 Pushed to Notion: 10 GitHub Repositories for Mastering Agents and MCPs
+2025-07-10 13:16:41,719 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:43,023 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:43,030 - \u2705 Pushed to Notion: The Era of Exploration
+2025-07-10 13:16:46,296 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:46,759 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:46,760 - \u2705 Pushed to Notion: How AI Diagnostics are Reshaping the Global Medical Market
+2025-07-10 13:16:47,125 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:48,652 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:48,654 - \u2705 Pushed to Notion: The 2025 AI-Powered Penetration Testing Bundle for $19
+2025-07-10 13:16:50,167 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:50,598 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:50,599 - \u2705 Pushed to Notion: PyTorch in One Hour: From Tensors to Training Neural Networks on Multiple GPUs
+2025-07-10 13:16:51,424 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:51,928 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:51,929 - \u2705 Pushed to Notion: Call for Proposals. June 2025 Member Survey
+2025-07-10 13:16:52,337 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:52,849 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:52,850 - \u2705 Pushed to Notion: AI Skill Stacks: How Teens Can Future-Proof Their Careers Today
+2025-07-10 13:16:53,390 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:54,018 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:54,020 - \u2705 Pushed to Notion: Where to Learn Email Marketing in 2025 (Free, Paid and Hands-On Paths)
+2025-07-10 13:16:54,385 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:54,929 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:54,931 - \u2705 Pushed to Notion: Reducing OpenAI Nvidia Chips Dependency: Leveraging Google TPUs for Cost\u2011Efficient AI Infrastructure
+2025-07-10 13:16:57,283 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:58,799 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:58,806 - \u2705 Pushed to Notion: 6 of the top AI courses for HR professionals
+2025-07-10 13:16:59,199 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:16:59,827 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:16:59,828 - \u2705 Pushed to Notion: Inteviron Digital Exchange (IDX) Launches as a Leading Global Digital Asset Trading Platform
+2025-07-10 13:17:00,325 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:00,837 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:00,838 - \u2705 Pushed to Notion: FortuixAgent 2025: This FortuixAgent App Sets New Standard in AI-Driven Trading with Unmatched Security and User Approval
+2025-07-10 13:17:02,025 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:02,026 - \U0001f501 Duplicate found in Notion, skipping: Blog networks in 2025: What they really offer—and how to use them wisely
+2025-07-10 13:17:02,382 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:03,396 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:03,398 - \u2705 Pushed to Notion: Workato GO: The AI Super App Revolutionizing Enterprise Search, Action, and Orchestration
+2025-07-10 13:17:03,775 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:04,232 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:04,238 - \u2705 Pushed to Notion: The Fastest Way to Start Coding with AI Tools (No Code) Beginners Guide
+2025-07-10 13:17:04,728 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:05,269 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:05,271 - \u2705 Pushed to Notion: EuroPython: EuroPython 2025: Sponsor Job Postings
+2025-07-10 13:17:09,189 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:16,914 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:16,916 - \u2705 Pushed to Notion: The Dismantling of American Health Care
+2025-07-10 13:17:18,756 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:19,781 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:19,782 - \u2705 Pushed to Notion: Flood Forecasts in Texas and Beyond Could Worsen with Trump NWS Cuts
+2025-07-10 13:17:20,192 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:20,193 - \U0001f501 Duplicate found in Notion, skipping: Specialized Nutrition Market Size Worth USD 206.79 Billion by 2034 | Driven by Elderly, Sports, and Medical Innovations
+2025-07-10 13:17:20,834 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:24,999 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:25,000 - \u2705 Pushed to Notion: What AI Can And Can’t Replace In Executive Coaching
+2025-07-10 13:17:25,396 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:26,832 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:26,834 - \u2705 Pushed to Notion: The Connection
+2025-07-10 13:17:27,256 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:27,798 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:27,799 - \u2705 Pushed to Notion: RHR: Mold, Indoor Air Quality, and Clean Breathing, with Michael Rubino
+2025-07-10 13:17:28,153 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:29,027 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:29,028 - \u2705 Pushed to Notion: Novartis receives approval for first malaria medicine for newborn babies and young infants
+2025-07-10 13:17:29,453 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:30,022 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:30,023 - \u2705 Pushed to Notion: Debate erupts over role job cuts played in forecasts ahead of deadly Texas floods
+2025-07-10 13:17:30,537 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:31,074 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:31,075 - \u2705 Pushed to Notion: Smarter AI needs smarter humans
+2025-07-10 13:17:32,375 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:34,257 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:34,259 - \u2705 Pushed to Notion: Full-breadth Developers | justin\u2024searls\u2024co
+2025-07-10 13:17:34,666 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:35,226 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:35,226 - \u2705 Pushed to Notion: UiPath CTO Details ‘Office Layout’ For Agents, Robots And Humans
+2025-07-10 13:17:35,630 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:38,779 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:38,780 - \u2705 Pushed to Notion: In a blow to Google Cloud, Replit partners with Microsoft | TechCrunch
+2025-07-10 13:17:39,131 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:41,093 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:41,095 - \u2705 Pushed to Notion: Firefox is fine. The people running it are not
+2025-07-10 13:17:42,541 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:43,040 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:43,041 - \u2705 Pushed to Notion: LLMs Calling LLMs: Building AI Agents with Apple's Foundation Models and Tool Calling
+2025-07-10 13:17:43,845 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:44,386 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:44,388 - \u2705 Pushed to Notion: Local Search America, North Carolina Folklife, Reddit, More: Monday ResearchBuzz, July 7, 2025
+2025-07-10 13:17:44,730 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:45,206 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:45,207 - \u2705 Pushed to Notion: Will Scaling Solve Robotics?
+2025-07-10 13:17:45,617 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:46,235 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:46,253 - \u2705 Pushed to Notion: Ford CEO latest to claim AI will wipe out half of white collar jobs in the U.S. — 'AI will leave a lot of white-collar people behind'
+2025-07-10 13:17:47,022 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:48,348 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:48,350 - \u2705 Pushed to Notion: Why Organizations Need Expert Generalists
+2025-07-10 13:17:48,817 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:49,286 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:49,286 - \u2705 Pushed to Notion: Show HN: BreakerMachines – Modern Circuit Breaker for Rails with Async Support
+2025-07-10 13:17:49,771 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:50,281 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:50,287 - \u2705 Pushed to Notion: Advancing AI agent governance with Boomi and AWS: A unified approach to observability and compliance
+2025-07-10 13:17:51,819 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:55,008 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:55,009 - \u2705 Pushed to Notion: What Can Salesforce Admins Do With Slack and Agents?
+2025-07-10 13:17:55,418 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:55,882 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:55,883 - \u2705 Pushed to Notion: Mutant EZH2 alters the epigenetic network and increases epigenetic heterogeneity in B cell lymphoma
+2025-07-10 13:17:56,702 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 13:17:57,259 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 13:17:57,260 - \u2705 Pushed to Notion: crawshaw - 2025-06-08
+2025-07-10 13:17:57,282 - \U0001f4e6 Done: 40 new articles added for category 'AI Logs'
+
+2025-07-10 16:26:38,565 - 
+\U0001f4cd Starting fetch for: Digital Rebuild | Region: Global
+2025-07-10 16:26:39,124 - \u2705 NewsAPI success for keyword: tech layoffs
+2025-07-10 16:26:39,632 - \u2705 NewsAPI success for keyword: startup failure stories
+2025-07-10 16:26:40,250 - \u2705 NewsAPI success for keyword: career restart after 40
+2025-07-10 16:26:41,476 - \u2705 NewsAPI success for keyword: midlife career pivot
+2025-07-10 16:26:42,017 - \u2705 NewsAPI success for keyword: founder burnout recovery
+2025-07-10 16:26:42,497 - \u2705 NewsAPI success for keyword: site:hbr.org
+2025-07-10 16:26:43,113 - \u2705 NewsAPI success for keyword: site:inc.com
+2025-07-10 16:26:43,830 - \u2705 NewsAPI success for keyword: site:firstround.com
+2025-07-10 16:26:46,595 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:47,206 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:47,719 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:48,176 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:48,640 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:50,132 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:50,597 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:51,917 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:52,327 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:52,718 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:54,573 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:56,526 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:56,891 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:57,349 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:58,678 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:59,087 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:59,495 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:26:59,905 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:00,298 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:00,681 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:01,675 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:02,085 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:02,559 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:03,139 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:27:03,140 - \u2705 Pushed to Notion: Tech Layoffs 2025: Intel Cuts Over 500 Jobs; Joins Google, Microsoft In Latest Wave Of Mass Firings
+2025-07-10 16:27:03,284 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:27:03,285 - \u2705 Pushed to Notion: I lost my software engineer job in May and have taken up welding. I'm happy to leave the tech industry — AI has changed it.
+2025-07-10 16:27:06,635 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:27:06,636 - \u2705 Pushed to Notion: Sweeping Layoffs Hit Tech And Media Giants Citing AI Take Over
+2025-07-10 16:27:08,711 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:27:08,714 - \u2705 Pushed to Notion: Which is most destructive: Nuclear weapons or Mining? You Decide
+2025-07-10 16:27:08,745 - \U0001f4e6 Done: 4 new articles added for category 'Digital Rebuild'
+
+2025-07-10 16:27:08,746 - 
+\U0001f4cd Starting fetch for: AI and Creator Systems | Region: Global
+2025-07-10 16:27:09,468 - \u2705 NewsAPI success for keyword: faceless YouTube automation
+2025-07-10 16:27:09,924 - \u2705 NewsAPI success for keyword: GPT for content creation
+2025-07-10 16:27:10,676 - \u2705 NewsAPI success for keyword: AI tools for YouTubers
+2025-07-10 16:27:11,170 - \u2705 NewsAPI success for keyword: AI for solopreneurs
+2025-07-10 16:27:11,681 - \u2705 NewsAPI success for keyword: ChatGPT content workflows
+2025-07-10 16:27:12,194 - \u2705 NewsAPI success for keyword: site:futuretools.io
+2025-07-10 16:27:13,407 - \u2705 NewsAPI success for keyword: site:superhuman.ai
+2025-07-10 16:27:13,833 - \u2705 NewsAPI success for keyword: site:creatoreconomy.so
+2025-07-10 16:27:14,782 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:15,266 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:15,777 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:16,187 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:16,692 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:17,240 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:18,525 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:19,534 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:20,591 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:22,126 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:22,591 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:23,021 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:23,457 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:24,583 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:24,994 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:25,638 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:26,103 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:26,632 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:27,018 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:27,477 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:28,987 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:29,397 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:29,818 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:30,604 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:27:30,606 - \u2705 Pushed to Notion: On-Page SEO Mastery With AI: Strategies And Workflows | Free Udemy Coupons 100% OFF
+2025-07-10 16:27:30,758 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:27:30,759 - \u2705 Pushed to Notion: How AI Improves Free Responsive Code Export
+2025-07-10 16:27:30,781 - \U0001f4e6 Done: 2 new articles added for category 'AI and Creator Systems'
+
+2025-07-10 16:27:30,782 - 
+\U0001f4cd Starting fetch for: Fitness x Founder Life | Region: Global
+2025-07-10 16:27:31,356 - \u2705 NewsAPI success for keyword: fitness for busy professionals
+2025-07-10 16:27:31,866 - \u2705 NewsAPI success for keyword: mental health for entrepreneurs
+2025-07-10 16:27:33,225 - \u2705 NewsAPI success for keyword: workout routine for founders
+2025-07-10 16:27:34,518 - \u2705 NewsAPI success for keyword: fitness hacks for coders
+2025-07-10 16:27:35,834 - \u2705 NewsAPI success for keyword: stress recovery for startup life
+2025-07-10 16:27:36,565 - \u2705 NewsAPI success for keyword: site:nerdfitness.com
+2025-07-10 16:27:37,122 - \u2705 NewsAPI success for keyword: site:whoop.com
+2025-07-10 16:27:37,487 - \u2705 NewsAPI success for keyword: site:foundr.com
+2025-07-10 16:27:38,203 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:38,724 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:39,950 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:40,456 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:40,866 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:41,435 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:42,146 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:42,554 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:42,982 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:43,371 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:44,962 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:45,914 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:46,273 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:47,727 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:48,138 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:48,781 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:49,315 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:49,774 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:50,287 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:27:50,288 - \u2705 Pushed to Notion: When did life advice get so unhinged?
+2025-07-10 16:27:50,316 - \U0001f4e6 Done: 1 new articles added for category 'Fitness x Founder Life'
+
+2025-07-10 16:27:50,317 - 
+\U0001f4cd Starting fetch for: AI Logs | Region: Global
+2025-07-10 16:27:51,653 - \u2705 NewsAPI success for keyword: learn machine learning from scratch
+2025-07-10 16:27:52,130 - \u2705 NewsAPI success for keyword: beginner AI roadmap
+2025-07-10 16:27:52,675 - \u2705 NewsAPI success for keyword: data science for working professionals
+2025-07-10 16:27:53,258 - \u2705 NewsAPI success for keyword: AI for non-programmers
+2025-07-10 16:27:53,902 - \u2705 NewsAPI success for keyword: ML for career switch
+2025-07-10 16:27:55,202 - \u2705 NewsAPI success for keyword: site:kdnuggets.com
+2025-07-10 16:27:55,907 - \u2705 NewsAPI success for keyword: site:towardsdatascience.com
+2025-07-10 16:27:56,536 - \u2705 NewsAPI success for keyword: site:huggingface.co
+2025-07-10 16:27:57,864 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:59,186 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:27:59,586 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:00,043 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:01,348 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:02,121 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:02,575 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:03,599 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:04,008 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:04,426 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:05,851 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:06,466 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:06,875 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:07,285 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:07,784 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:09,948 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:10,358 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:10,749 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:11,158 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:14,147 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:14,557 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:15,243 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:15,629 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:15,995 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:28:16,498 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:28:16,499 - \u2705 Pushed to Notion: WordPress vs Laravel – Which Is Better? (Expert Comparison)
+2025-07-10 16:28:16,523 - \U0001f4e6 Done: 1 new articles added for category 'AI Logs'
+
+2025-07-10 16:55:00,392 - 
+\U0001f4cd Starting fetch for: Digital Rebuild | Region: Global
+2025-07-10 16:55:01,758 - \u2705 NewsAPI success for keyword: tech layoffs
+2025-07-10 16:55:02,414 - \u2705 NewsAPI success for keyword: startup failure stories
+2025-07-10 16:55:02,836 - \u2705 NewsAPI success for keyword: career restart after 40
+2025-07-10 16:55:03,251 - \u2705 NewsAPI success for keyword: midlife career pivot
+2025-07-10 16:55:04,401 - \u2705 NewsAPI success for keyword: founder burnout recovery
+2025-07-10 16:55:05,552 - \u2705 NewsAPI success for keyword: site:hbr.org
+2025-07-10 16:55:06,018 - \u2705 NewsAPI success for keyword: site:inc.com
+2025-07-10 16:55:06,386 - \u2705 NewsAPI success for keyword: site:firstround.com
+2025-07-10 16:55:12,774 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:13,839 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:14,258 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:14,742 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:15,160 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:15,544 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:16,581 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:16,950 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:17,390 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:17,868 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:18,290 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:18,770 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:19,917 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:20,331 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:20,867 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:22,230 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:23,841 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:24,219 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:24,629 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:25,037 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:25,450 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:25,806 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:26,264 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:26,291 - \U0001f4e6 Done: 0 new articles added for category 'Digital Rebuild'
+
+2025-07-10 16:55:26,292 - 
+\U0001f4cd Starting fetch for: AI and Creator Systems | Region: Global
+2025-07-10 16:55:27,156 - \u2705 NewsAPI success for keyword: faceless YouTube automation
+2025-07-10 16:55:27,791 - \u2705 NewsAPI success for keyword: GPT for content creation
+2025-07-10 16:55:28,400 - \u2705 NewsAPI success for keyword: AI tools for YouTubers
+2025-07-10 16:55:28,901 - \u2705 NewsAPI success for keyword: AI for solopreneurs
+2025-07-10 16:55:30,116 - \u2705 NewsAPI success for keyword: ChatGPT content workflows
+2025-07-10 16:55:30,564 - \u2705 NewsAPI success for keyword: site:futuretools.io
+2025-07-10 16:55:31,767 - \u2705 NewsAPI success for keyword: site:superhuman.ai
+2025-07-10 16:55:33,102 - \u2705 NewsAPI success for keyword: site:creatoreconomy.so
+2025-07-10 16:55:34,458 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:34,868 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:35,311 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:35,758 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:36,158 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:36,577 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:37,967 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:39,708 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:40,175 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:40,572 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:44,052 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:44,565 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:45,067 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:46,000 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:46,402 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:46,745 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:48,867 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:50,083 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:50,813 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:53,642 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:54,073 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:54,497 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:55,214 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:55:55,726 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:55:55,727 - \u2705 Pushed to Notion: How Freelancers & Solopreneurs Can Use Slow Seasons To Their Advantage
+2025-07-10 16:55:56,034 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:55:56,035 - \u2705 Pushed to Notion: Generative Engine Optimization (GEO): How to Win in AI Search
+2025-07-10 16:55:56,058 - \U0001f4e6 Done: 2 new articles added for category 'AI and Creator Systems'
+
+2025-07-10 16:55:56,058 - 
+\U0001f4cd Starting fetch for: Fitness x Founder Life | Region: Global
+2025-07-10 16:55:57,572 - \u2705 NewsAPI success for keyword: fitness for busy professionals
+2025-07-10 16:55:58,815 - \u2705 NewsAPI success for keyword: mental health for entrepreneurs
+2025-07-10 16:55:59,516 - \u2705 NewsAPI success for keyword: workout routine for founders
+2025-07-10 16:55:59,979 - \u2705 NewsAPI success for keyword: fitness hacks for coders
+2025-07-10 16:56:00,540 - \u2705 NewsAPI success for keyword: stress recovery for startup life
+2025-07-10 16:56:01,767 - \u2705 NewsAPI success for keyword: site:nerdfitness.com
+2025-07-10 16:56:02,375 - \u2705 NewsAPI success for keyword: site:whoop.com
+2025-07-10 16:56:02,802 - \u2705 NewsAPI success for keyword: site:foundr.com
+2025-07-10 16:56:03,822 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:04,604 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:05,864 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:07,023 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:07,503 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:09,945 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:10,508 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:10,970 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:11,401 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:14,160 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:14,876 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:16,315 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:16,726 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:17,180 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:17,647 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:20,744 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:21,329 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:21,745 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:21,969 - \U0001f4e6 Done: 0 new articles added for category 'Fitness x Founder Life'
+
+2025-07-10 16:56:22,039 - 
+\U0001f4cd Starting fetch for: AI Logs | Region: Global
+2025-07-10 16:56:22,967 - \u2705 NewsAPI success for keyword: learn machine learning from scratch
+2025-07-10 16:56:23,377 - \u2705 NewsAPI success for keyword: beginner AI roadmap
+2025-07-10 16:56:24,707 - \u2705 NewsAPI success for keyword: data science for working professionals
+2025-07-10 16:56:25,220 - \u2705 NewsAPI success for keyword: AI for non-programmers
+2025-07-10 16:56:25,683 - \u2705 NewsAPI success for keyword: ML for career switch
+2025-07-10 16:56:26,151 - \u2705 NewsAPI success for keyword: site:kdnuggets.com
+2025-07-10 16:56:27,369 - \u2705 NewsAPI success for keyword: site:towardsdatascience.com
+2025-07-10 16:56:27,983 - \u2705 NewsAPI success for keyword: site:huggingface.co
+2025-07-10 16:56:28,806 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:29,347 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:29,835 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:30,236 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:35,470 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:35,970 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:36,367 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:36,793 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:37,199 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:37,609 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:38,025 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:38,430 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:39,234 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:39,861 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:40,271 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:40,665 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:41,910 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:42,307 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:42,709 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:45,391 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:45,808 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:46,333 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:48,206 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:48,651 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 16:56:49,146 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 16:56:49,147 - \u2705 Pushed to Notion: Peter Kyle’s speech at Google Cloud Summit London
+2025-07-10 16:56:49,256 - \U0001f4e6 Done: 1 new articles added for category 'AI Logs'
+
+2025-07-10 18:25:27,158 - 
+\U0001f4cd Starting fetch for: Digital Rebuild | Region: Global
+2025-07-10 18:25:27,991 - \u2705 NewsAPI success for keyword: tech layoffs
+2025-07-10 18:25:28,471 - \u2705 NewsAPI success for keyword: startup failure stories
+2025-07-10 18:25:29,085 - \u2705 NewsAPI success for keyword: career restart after 40
+2025-07-10 18:25:29,629 - \u2705 NewsAPI success for keyword: midlife career pivot
+2025-07-10 18:25:30,037 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:31,295 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:32,465 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:32,978 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:33,868 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:34,347 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:34,747 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:36,868 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:37,274 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:37,657 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:38,099 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:38,711 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:39,110 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:39,739 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:40,174 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:41,023 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:41,460 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:43,223 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:44,649 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:46,697 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:47,107 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:48,130 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:48,848 - HTTP Request: POST https://api.notion.com/v1/databases/20079bb07bc78030b386c55b1e94d9e1/query "HTTP/1.1 200 OK"
+2025-07-10 18:25:49,668 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 18:25:49,670 - \u2705 Pushed to Notion: Adani Units in Talks with MUFG for $250 Million Offshore Loans
+2025-07-10 18:25:49,740 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 18:25:49,741 - \u2705 Pushed to Notion: Japan’s Telecom Giant NTT Kicks Off Dual-Currency Bond Sale
+2025-07-10 18:25:50,179 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 18:25:50,180 - \u2705 Pushed to Notion: Trump’s BRICS Warning to India Adds New Twist to Trade Deal
+2025-07-10 18:25:50,201 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 18:25:50,202 - \u2705 Pushed to Notion: Regulators should limit leverage for 'shadow banks' in core markets, FSB says
+2025-07-10 18:25:50,252 - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-10 18:25:50,253 - \u2705 Pushed to Notion: South Africa’s Ramaphosa hits back at US tariffs
+2025-07-10 18:25:50,258 - \U0001f4e6 Done: 5 new articles added for category 'Digital Rebuild'
+
+2025-07-10 18:25:50,260 - 
+\U0001f4cd Starting fetch for: AI and Creator Systems | Region: Global
+2025-07-10 18:25:50,907 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:51,536 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:53,048 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:54,277 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:54,890 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:55,917 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:56,429 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:57,594 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:57,685 - \U0001f4e6 Done: 0 new articles added for category 'AI and Creator Systems'
+
+2025-07-10 18:25:57,689 - 
+\U0001f4cd Starting fetch for: Fitness x Founder Life | Region: Global
+2025-07-10 18:25:58,091 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:58,487 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:25:58,915 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:00,098 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:00,624 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:01,866 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:02,365 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:02,878 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:02,904 - \U0001f4e6 Done: 0 new articles added for category 'Fitness x Founder Life'
+
+2025-07-10 18:26:02,906 - 
+\U0001f4cd Starting fetch for: AI Logs | Region: Global
+2025-07-10 18:26:03,335 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:03,665 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:04,005 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:04,647 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:04,987 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:06,228 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:07,348 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:07,745 - \u23f3 Too Many Requests from NewsAPI
+2025-07-10 18:26:07,764 - \U0001f4e6 Done: 0 new articles added for category 'AI Logs'
+

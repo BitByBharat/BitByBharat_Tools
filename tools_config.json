@@ -1,0 +1,14 @@
+{
+  "content_radar": {
+    "label": "Content Idea Radar",
+    "entry_point": "trending_ideas.py"
+  },
+  "quora_scraper": {
+    "label": "Quora Trend Scraper",
+    "entry_point": "fetch_quora_questions.py"
+  },
+  "youtube_title_generator": {
+    "label": "YouTube Title Generator",
+    "entry_point": "title_generator.py"
+  }
+}

@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+requests
+pandas
+notion-client
+beautifulsoup4
