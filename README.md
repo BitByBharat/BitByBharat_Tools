@@ -1,3 +1,5 @@
+![Built by BitByBharat](https://img.shields.io/badge/Built%20by-BitByBharat💡-blueviolet?style=for-the-badge)
+
 # 🛠️ BitByBharat AI Tools Dashboard (Local Streamlit App)
 
 Welcome to **BitByBharat_Tools** — a local browser-based AI dashboard built with **Streamlit**, designed to trigger and visualize internal Python tools like:
