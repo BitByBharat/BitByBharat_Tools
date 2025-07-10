@@ -1,4 +1,5 @@
 ![Built by BitByBharat](https://img.shields.io/badge/Built%20by-BitByBharat💡-blueviolet?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-v1.0.0-green?style=for-the-badge)
 
 # 🛠️ BitByBharat AI Tools Dashboard (Local Streamlit App)
 
